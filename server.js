@@ -2,6 +2,7 @@
 
 // set up ======================================================================
 // get all the tools we need
+var origin = 'turkhelper.org:80';
 var express = require('express');
 var cors = require('cors');
 var crypto = require('crypto');
